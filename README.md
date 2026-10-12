@@ -8,6 +8,7 @@ How do I approach developing programs? What Agile processes do I hope to incorpo
 
 When I develop programs, I do so iteratively, much like Agile suggests. I ensure my program runs as I write it in small chunks, and try strange inputs to see if the program behaves in an unexpected fashion or not. If so, I try to fix it, and if I can't fix it I warn the user beforehand that certain inputs may cause the program to behave erratically. 
 In my future development work, I look forward to implementing the feedback/improvement loop. You don't really get to do that in college as grades are grades and generally final (except for what you apply to future work) but future non-academic work will likely prefer this kind of model so they get the product they need.
+
 What does it mean to be a good team member in software development?
 
 A good team member in software development, as in most activities, is someone who prioritizes the team's needs and goals in their own work. In software development, this includes strong communication, so I would endeavor to inform my team as completely as I know how to about the progress and roadblocks of my development work, because they may know a solution that allows me to continue working far faster than I could find on my own, and vice versa when I have experience.
