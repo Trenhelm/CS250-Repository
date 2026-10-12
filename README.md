@@ -1,10 +1,13 @@
 # CS250-Repository
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
 I interpret user needs and implement them into a program through continuing back and forth with clientele, carefully marking down the specifications they outline and then implementing them. If I understood the well, all feedback should lead to polishing the basic framework until the product is ready to launch, but if they have a priority shift then I would try to pivot and accomplish that.
 User stories are beneficial in this regard because they can put you in the mind of the user. What would they look for on my software? Where would they go, and what functions would they try to achieve? These questions can help guide development.
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
 When I develop programs, I do so iteratively, much like Agile suggests. I ensure my program runs as I write it in small chunks, and try strange inputs to see if the program behaves in an unexpected fashion or not. If so, I try to fix it, and if I can't fix it I warn the user beforehand that certain inputs may cause the program to behave erratically. 
 In my future development work, I look forward to implementing the feedback/improvement loop. You don't really get to do that in college as grades are grades and generally final (except for what you apply to future work) but future non-academic work will likely prefer this kind of model so they get the product they need.
 What does it mean to be a good team member in software development?
+
 A good team member in software development, as in most activities, is someone who prioritizes the team's needs and goals in their own work. In software development, this includes strong communication, so I would endeavor to inform my team as completely as I know how to about the progress and roadblocks of my development work, because they may know a solution that allows me to continue working far faster than I could find on my own, and vice versa when I have experience.
